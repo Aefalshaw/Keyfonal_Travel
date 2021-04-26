@@ -1,0 +1,26 @@
+body, html {
+    background-image: url("./images/backpack.jfif");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    background: none;
+    font-size: bold;
+}
+
+.display-2 {
+font-size: 100px;
+background-color: beige;
+width: fit-content;
+padding: 5px;
+}
+
+.lead {
+    color: white;
+    background-color: black;
+    width: fit-content;
+    padding: 5px;
+}
