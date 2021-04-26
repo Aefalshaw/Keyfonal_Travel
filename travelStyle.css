@@ -24,3 +24,11 @@ padding: 5px;
     width: fit-content;
     padding: 5px;
 }
+
+.infoBox-1, .infoBox-2 {
+    background-color: white;
+    opacity: 50%;
+    width: fit-content;
+    padding: 10px;
+    margin: 25px;
+}
