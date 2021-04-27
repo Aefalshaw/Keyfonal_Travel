@@ -1,4 +1,4 @@
-This page was created as a wireframe for a potentional travel application.
+This page was created as a static wireframe for a potentional travel application.
 - Bootstrap
 - CSS
 - HTML
